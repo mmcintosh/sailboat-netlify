@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cockpit Grate Exterior on 1972 Allied Chance 30-30</title>
+    <link>http://alliedchance30.com/tags/cockpit-grate-exterior/</link>
+    <description>Recent content in Cockpit Grate Exterior on 1972 Allied Chance 30-30</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2015 13:47:08 +0200</lastBuildDate>
+    <atom:link href="http://alliedchance30.com/tags/cockpit-grate-exterior/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Cockpit Grate</title>
+      <link>http://alliedchance30.com/projects/2015/04/17/go-is-for-lovers/</link>
+      <pubDate>Fri, 17 Apr 2015 13:47:08 +0200</pubDate>
+      
+      <guid>http://alliedchance30.com/projects/2015/04/17/go-is-for-lovers/</guid>
+      <description>
+
+&lt;p&gt;One of the things we had seen on many other sailboat that appreciated is a wooden grate. Being able to keep your feet dry on a white capped sailing day or some real was really appealing so in 2015 we started the project. We had found some mahogany at a local reuse it store and went to work.&lt;/p&gt;
+
+&lt;p&gt;This document is a brief primer on using go templates. The [go docs][gohtmltemplate]
+provide more details.&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-go-templates&#34;&gt;Introduction to Go Templates&lt;/h2&gt;
+
+&lt;p&gt;Go templates provide an extremely simple template language. It adheres to the
+belief that only the most basic of logic belongs in the template or view layer.
+One consequence of this simplicity is that go templates parse very quickly.&lt;/p&gt;
+
+&lt;p&gt;A unique characteristic of go templates is they are content aware. Variables and
+content will be sanitized depending on the context of where they are used. More
+details can be found in the [go docs][gohtmltemplate].&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
